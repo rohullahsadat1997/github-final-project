@@ -1,0 +1,6 @@
+* bug-fix-revert                ebf615d Revert "Fix typo in README"
+  bug-fix-typo                  b08ece4 Fix typo in README
+  main                          3fa457f Fix typo in README
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert ebf615d Revert "Fix typo in README"
+  remotes/origin/main           3fa457f Fix typo in README
