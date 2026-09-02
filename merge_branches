@@ -1,0 +1,9 @@
+C:\Users\PREMIER COMPUTER\OneDrive\Desktop\mcino-Introduction-to-Git-and-GitHub>git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+C:\Users\PREMIER COMPUTER\OneDrive\Desktop\mcino-Introduction-to-Git-and-GitHub>git merge bug-fix-typo
+Updating e5aacb1..b08ece4
+Fast-forward
+ README.md | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
